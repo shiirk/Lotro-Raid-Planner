@@ -1,0 +1,10 @@
+{
+  "BOT_TOKEN": "Token goes here",
+  "CLASSES": ["Beorning","Burglar","Captain","Champion","Guardian","Hunter","Loremaster","Minstrel","Runekeeper","Warden"],
+  "CHANNELS": {
+    "BOT": "saruman",
+    "APPLY": "applications"
+  },
+  "LEADER": "Raid Leader",
+  "SERVER_TZ": "US/Eastern"
+}
