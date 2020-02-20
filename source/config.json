@@ -2,7 +2,7 @@
   "BOT_TOKEN": "NjgwMTI5NjAyMTkwMTgwMzYw.Xk7wSw.yOFLNKS-GVwJmxVjIrOD6B9GrQI",
   "CLASSES": ["Beorning","Burglar","Captain","Champion","Guardian","Hunter","Loremaster","Minstrel","Runekeeper","Warden"],
   "CHANNELS": {
-    "BOT": "Raid Information",
+    "BOT": "raid",
     "APPLY": "applications"
   },
   "LEADER": "Raid Leader",
