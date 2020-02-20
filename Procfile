@@ -1,1 +1,1 @@
-worker: python Raid Information.py 
+worker: python main.py 
